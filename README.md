@@ -28,7 +28,7 @@
 <h2 align="center" style="color:#00ffff;">Linguagens e Tecnologias</h2>
 
 <p align="center">
-  <img src="./linguagens de programação.png" width="130"><br>
+  <img src="./linguagens de progamação.png" width="100"><br>
   🐍 Python – automação, lógica e pequenos sistemas<br>
   🌐 HTML – estrutura de sites interativos<br>
   🎨 CSS – estilização avançada
