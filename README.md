@@ -2,8 +2,8 @@
 <!-- BANNER + MASCOTE -->
 <!-- ===================================== -->
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:wrap; margin-bottom:10px;">
-  <img src="./banner.png" alt="Thiago Guimarães - Engenharia de Software" width="400" style="margin:0;">
-  <img src="./mascote.png" alt="Mascote InPsyck" width="260" style="margin:0;">
+  <img src="./banner.png" alt="Thiago Guimarães - Engenharia de Software" width="400" style="margin:1opx;">
+  <img src="./mascote.png" alt="Mascote InPsyck" width="300" style="margin-bottom:15px">
 </div>
 
 <!-- ===================================== -->
